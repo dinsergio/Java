@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Exercicio7 {
 	public static void main(String[] args) {
 		
-		int Valor;
-		int Dolar;
+		double Valor;
+		double Dolar;
 		
 		Scanner Leitura = new Scanner(System.in);
 		
